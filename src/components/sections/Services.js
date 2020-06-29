@@ -2,20 +2,20 @@ import React from "react";
 
 const Services = () => {
   return (
-    <div class="service_area">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <div class="section_title text-center mb-70">
+    <div className="service_area">
+      <div className="container">
+        <div className="row justify-content-center">
+          <div className="col-lg-6">
+            <div className="section_title text-center mb-70">
               <span
-                class="wow fadeInUp"
+                className="wow fadeInUp"
                 data-wow-duration="1s"
                 data-wow-delay=".1s"
               >
                 Services
               </span>
               <h3
-                class="wow fadeInUp"
+                className="wow fadeInUp"
                 data-wow-duration="1.2s"
                 data-wow-delay=".2s"
               >
@@ -25,14 +25,14 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-xl-4 col-md-4">
+        <div className="row">
+          <div className="col-xl-4 col-md-4">
             <div
-              class="single_service text-center wow fadeInLeft"
+              className="single_service text-center wow fadeInLeft"
               data-wow-duration="1.2s"
               data-wow-delay=".4s"
             >
-              <div class="icon">
+              <div className="icon">
                 <img src="img/svg_icon/1.svg" alt="" />
               </div>
               <h3>Graphic design</h3>
@@ -42,13 +42,13 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class="col-xl-4 col-md-4">
+          <div className="col-xl-4 col-md-4">
             <div
-              class="single_service text-center wow fadeInUp"
+              className="single_service text-center wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".3s"
             >
-              <div class="icon">
+              <div className="icon">
                 <img src="img/svg_icon/2.svg" alt="" />
               </div>
               <h3>Web design</h3>
@@ -58,13 +58,13 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div class="col-xl-4 col-md-4">
+          <div className="col-xl-4 col-md-4">
             <div
-              class="single_service text-center wow fadeInRight"
+              className="single_service text-center wow fadeInRight"
               data-wow-duration="1.2s"
               data-wow-delay=".4s"
             >
-              <div class="icon">
+              <div className="icon">
                 <img src="img/svg_icon/3.svg" alt="" />
               </div>
               <h3>Mobile app</h3>

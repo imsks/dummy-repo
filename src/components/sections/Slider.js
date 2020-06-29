@@ -2,14 +2,14 @@ import React from "react";
 
 const Slider = () => {
   return (
-    <div class="slider_area">
-      <div class="single_slider d-flex align-items-center slider_bg_1 overlay">
-        <div class="container">
-          <div class="row align-items-center justify-content-start">
-            <div class="col-lg-10 col-md-10">
-              <div class="slider_text">
+    <div className="slider_area">
+      <div className="single_slider d-flex align-items-center slider_bg_1 overlay">
+        <div className="container">
+          <div className="row align-items-center justify-content-start">
+            <div className="col-lg-10 col-md-10">
+              <div className="slider_text">
                 <h3
-                  class="wow fadeInLeft"
+                  className="wow fadeInLeft"
                   data-wow-duration="1s"
                   data-wow-delay=".1s"
                 >
@@ -17,7 +17,7 @@ const Slider = () => {
                   builder.
                 </h3>
                 <a
-                  class="boxed-btn3 wow fadeInLeft"
+                  className="boxed-btn3 wow fadeInLeft"
                   data-wow-duration="1s"
                   data-wow-delay=".2s"
                   href="portfolio.html"

@@ -2,13 +2,13 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer class="footer">
-      <div class="footer_top">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-lg-2 col-md-3">
+    <footer className="footer">
+      <div className="footer_top">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-lg-2 col-md-3">
               <div
-                class="footer_logo wow fadeInRight"
+                className="footer_logo wow fadeInRight"
                 data-wow-duration="1s"
                 data-wow-delay=".3s"
               >
@@ -17,13 +17,13 @@ const Footer = () => {
                 </a>
               </div>
             </div>
-            <div class="col-xl-7 col-lg-7 col-md-9">
-              <div class="menu_links">
+            <div className="col-xl-7 col-lg-7 col-md-9">
+              <div className="menu_links">
                 <ul>
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay=".2s"
                     >
@@ -33,7 +33,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay=".4s"
                     >
@@ -43,7 +43,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay=".6s"
                     >
@@ -53,7 +53,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay=".8s"
                     >
@@ -63,7 +63,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay="1s"
                     >
@@ -73,7 +73,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInDown"
+                      className="wow fadeInDown"
                       data-wow-duration="1s"
                       data-wow-delay="1.1s"
                     >
@@ -83,51 +83,51 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-12">
-              <div class="socail_links">
+            <div className="col-lg-3 col-md-12">
+              <div className="socail_links">
                 <ul>
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInUp"
+                      className="wow fadeInUp"
                       data-wow-duration="1s"
                       data-wow-delay=".3s"
                     >
                       {" "}
-                      <i class="fa fa-facebook"></i>{" "}
+                      <i className="fa fa-facebook"></i>{" "}
                     </a>
                   </li>
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInUp"
+                      className="wow fadeInUp"
                       data-wow-duration="1s"
                       data-wow-delay=".4s"
                     >
                       {" "}
-                      <i class="fa fa-twitter"></i>{" "}
+                      <i className="fa fa-twitter"></i>{" "}
                     </a>
                   </li>
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInUp"
+                      className="wow fadeInUp"
                       data-wow-duration="1s"
                       data-wow-delay=".5s"
                     >
                       {" "}
-                      <i class="fa fa-instagram"></i>{" "}
+                      <i className="fa fa-instagram"></i>{" "}
                     </a>
                   </li>
                   <li>
                     <a
                       href="/dummy_url"
-                      class="wow fadeInUp"
+                      className="wow fadeInUp"
                       data-wow-duration="1s"
                       data-wow-delay=".6s"
                     >
                       {" "}
-                      <i class="fa fa-google-plus"></i>{" "}
+                      <i className="fa fa-google-plus"></i>{" "}
                     </a>
                   </li>
                 </ul>
@@ -136,13 +136,13 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div class="copy-right_text">
-        <div class="container">
-          <div class="footer_border"></div>
-          <div class="row">
-            <div class="col-xl-12">
+      <div className="copy-right_text">
+        <div className="container">
+          <div className="footer_border"></div>
+          <div className="row">
+            <div className="col-xl-12">
               <p
-                class="copy_right text-center wow fadeInUp"
+                className="copy_right text-center wow fadeInUp"
                 data-wow-duration="1s"
                 data-wow-delay="1.3s"
               >

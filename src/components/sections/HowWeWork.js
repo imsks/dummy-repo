@@ -2,28 +2,28 @@ import React from "react";
 
 const HowWeWork = () => {
   return (
-    <div class="how_we_work_area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-5">
-            <div class="work_info">
-              <div class="section_title">
+    <div className="how_we_work_area">
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-5">
+            <div className="work_info">
+              <div className="section_title">
                 <h3
-                  class="wow fadeInLeft"
+                  className="wow fadeInLeft"
                   data-wow-duration="1s"
                   data-wow-delay=".3s"
                 >
                   How we work
                 </h3>
                 <p
-                  class="mid_text wow fadeInLeft"
+                  className="mid_text wow fadeInLeft"
                   data-wow-duration="1s"
                   data-wow-delay=".4s"
                 >
                   “Function information without cross action media value.
                 </p>
                 <p
-                  class="last_p wow fadeInRight"
+                  className="last_p wow fadeInRight"
                   data-wow-duration="1s"
                   data-wow-delay=".5s"
                 >
@@ -32,21 +32,21 @@ const HowWeWork = () => {
                   deliverables for real-time schemas.
                 </p>
               </div>
-              <div class="video_watch d-flex align-items-center">
+              <div className="video_watch d-flex align-items-center">
                 <div
-                  class="play_btn wow fadeInUp"
+                  className="play_btn wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".6s"
                 >
                   <a
                     href="https://www.youtube.com/watch?v=D7tF-cY2M9o"
-                    class="video_icon popup-video"
+                    className="video_icon popup-video"
                   >
-                    <i class="fa fa-play"></i>
+                    <i className="fa fa-play"></i>
                   </a>
                 </div>
                 <span
-                  class="wow fadeInLeft"
+                  className="wow fadeInLeft"
                   data-wow-duration="1s"
                   data-wow-delay=".7s"
                 >

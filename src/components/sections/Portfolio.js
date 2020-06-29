@@ -2,20 +2,20 @@ import React from "react";
 
 const Portfolio = () => {
   return (
-    <div class="portfolio_image_area">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <div class="section_title text-center mb-90">
+    <div className="portfolio_image_area">
+      <div className="container">
+        <div className="row justify-content-center">
+          <div className="col-lg-6">
+            <div className="section_title text-center mb-90">
               <h3
-                class="wow fadeInUp"
+                className="wow fadeInUp"
                 data-wow-duration="1s"
                 data-wow-delay=".3s"
               >
                 Featured Works
               </h3>
               <p
-                class="wow fadeInUp"
+                className="wow fadeInUp"
                 data-wow-duration="1s"
                 data-wow-delay=".4s"
               >
@@ -25,101 +25,101 @@ const Portfolio = () => {
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-8 col-md-12">
+        <div className="row">
+          <div className="col-lg-8 col-md-12">
             <div
-              class="single_Portfolio wow fadeInUp"
+              className="single_Portfolio wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".3s"
             >
-              <div class="portfolio_thumb">
+              <div className="portfolio_thumb">
                 <img src="img/portfolio/1.png" alt="" />
               </div>
-              <div class="portfolio_hover">
-                <div class="title">
+              <div className="portfolio_hover">
+                <div className="title">
                   <span>App Design</span>
                   <h3>Colorlib Mobile App</h3>
-                  <a class="boxed-btn3" href="portfolio_details.html">
+                  <a className="boxed-btn3" href="portfolio_details.html">
                     View
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div className="col-lg-4 col-md-6">
             <div
-              class="single_Portfolio wow fadeInUp"
+              className="single_Portfolio wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".4s"
             >
-              <div class="portfolio_thumb">
+              <div className="portfolio_thumb">
                 <img src="img/portfolio/2.png" alt="" />
               </div>
-              <div class="portfolio_hover">
-                <div class="title">
+              <div className="portfolio_hover">
+                <div className="title">
                   <span>App Design</span>
                   <h3>Colorlib Mobile App</h3>
-                  <a class="boxed-btn3" href="portfolio_details.html">
+                  <a className="boxed-btn3" href="portfolio_details.html">
                     View
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-lg-4">
+          <div className="col-lg-4 col-md-6 col-lg-4">
             <div
-              class="single_Portfolio wow fadeInUp"
+              className="single_Portfolio wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".5s"
             >
-              <div class="portfolio_thumb">
+              <div className="portfolio_thumb">
                 <img src="img/portfolio/3.png" alt="" />
               </div>
-              <div class="portfolio_hover">
-                <div class="title">
+              <div className="portfolio_hover">
+                <div className="title">
                   <span>App Design</span>
                   <h3>Colorlib Mobile App</h3>
-                  <a class="boxed-btn3" href="portfolio_details.html">
+                  <a className="boxed-btn3" href="portfolio_details.html">
                     View
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-lg-4">
+          <div className="col-lg-4 col-md-6 col-lg-4">
             <div
-              class="single_Portfolio wow fadeInUp"
+              className="single_Portfolio wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".6s"
             >
-              <div class="portfolio_thumb">
+              <div className="portfolio_thumb">
                 <img src="img/portfolio/4.png" alt="" />
               </div>
-              <div class="portfolio_hover">
-                <div class="title">
+              <div className="portfolio_hover">
+                <div className="title">
                   <span>App Design</span>
                   <h3>Colorlib Mobile App</h3>
-                  <a class="boxed-btn3" href="portfolio_details.html">
+                  <a className="boxed-btn3" href="portfolio_details.html">
                     View
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-lg-4">
+          <div className="col-lg-4 col-md-6 col-lg-4">
             <div
-              class="single_Portfolio wow fadeInUp"
+              className="single_Portfolio wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay=".7s"
             >
-              <div class="portfolio_thumb">
+              <div className="portfolio_thumb">
                 <img src="img/portfolio/5.png" alt="" />
               </div>
-              <div class="portfolio_hover">
-                <div class="title">
+              <div className="portfolio_hover">
+                <div className="title">
                   <span>App Design</span>
                   <h3>Colorlib Mobile App</h3>
-                  <a class="boxed-btn3" href="portfolio_details.html">
+                  <a className="boxed-btn3" href="portfolio_details.html">
                     View
                   </a>
                 </div>

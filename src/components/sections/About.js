@@ -2,28 +2,28 @@ import React from "react";
 
 const About = () => {
   return (
-    <div class="about_area">
-      <div class="container">
-        <div class="row justify-content-end">
-          <div class="col-lg-5 offset-lg-1">
-            <div class="about_info">
-              <div class="section_title white_text">
+    <div className="about_area">
+      <div className="container">
+        <div className="row justify-content-end">
+          <div className="col-lg-5 offset-lg-1">
+            <div className="about_info">
+              <div className="section_title white_text">
                 <span
-                  class="wow fadeInUp"
+                  className="wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".3s"
                 >
                   About Us
                 </span>
                 <h3
-                  class="wow fadeInUp"
+                  className="wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".4s"
                 >
                   Empowering individuals
                 </h3>
                 <p
-                  class="mid_text wow fadeInUp"
+                  className="mid_text wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".5s"
                 >
@@ -32,7 +32,7 @@ const About = () => {
                   deliverables for real-time schemas.
                 </p>
                 <p
-                  class="last_text wow fadeInUp"
+                  className="last_text wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".6s"
                 >
@@ -40,7 +40,7 @@ const About = () => {
                 </p>
                 <a
                   href="/dummy_url"
-                  class="boxed-btn3 wow fadeInUp"
+                  className="boxed-btn3 wow fadeInUp"
                   data-wow-duration="1s"
                   data-wow-delay=".7s"
                 >
